@@ -1,13 +1,11 @@
-BetCoin (BCO) - scrypt
+BetCoin (BCO) - a 'faster' version of Litecoin which also uses scrypt
+as a proof of work scheme and is intended for microtransactions.
 
  - 30 seconds block targets
  - 15,000,000,000 total coins (15 billion)
  - 2500 coins per block
  - Difficulty retargets every 0.35 days (8 hours, 4 minutes)
  - Block rewards halve roughly every 6 months.
- - Proof of Work(PoW)
-
-Betcoin(BCO) has been created to give the betting and gambling communites a single coin, to use for all betting transactions.
 
 www.betcoinproject.org
 
