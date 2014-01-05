@@ -1,9 +1,9 @@
-Building SmallChange
+Building BetCoin
 
-See doc/readme-qt.rst for instructions on building smallchange-qt,
+See doc/readme-qt.rst for instructions on building betcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of SmallChange.
+implementation of BetCoin.
 
-See doc/build-*.txt for instructions on building smallchange,
+See doc/build-*.txt for instructions on building betcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of SmallChange.
+implementation of BetCoin.
